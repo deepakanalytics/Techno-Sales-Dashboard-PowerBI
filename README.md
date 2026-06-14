@@ -38,7 +38,7 @@ This Power BI dashboard provides an interactive analysis of technology product s
 
 ## Dashboard Preview
 
-(Add screenshot here after uploading image)
+
 
 ## Files Included
 
